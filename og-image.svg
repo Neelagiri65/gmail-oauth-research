@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="g1" cx="20%" cy="10%" r="50%">
+      <stop offset="0%" stop-color="#A64D79" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#A64D79" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="90%" cy="95%" r="55%">
+      <stop offset="0%" stop-color="#E9C46A" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#E9C46A" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#1a0e17"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <text x="80" y="180" font-family="Inter, -apple-system, sans-serif" font-size="28" font-weight="600" fill="#E9C46A" letter-spacing="4">RESEARCH</text>
+  <text x="80" y="290" font-family="Inter, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#FFFDED" letter-spacing="-2">124 Repositories.</text>
+  <text x="80" y="380" font-family="Inter, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#FFFDED" letter-spacing="-2">Four Ecosystems.</text>
+  <text x="80" y="470" font-family="Inter, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#E9C46A" letter-spacing="-2">One Broken Assumption.</text>
+  <text x="80" y="555" font-family="JetBrains Mono, monospace" font-size="22" fill="#b8a4b2">Google OAuth handlers keying on email instead of sub. Sourcegraph scan, April 2026.</text>
+</svg>
